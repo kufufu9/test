@@ -1,4 +1,4 @@
 test demo 1
 repository changed
 local add
-local add2
+local add2  & repository add
